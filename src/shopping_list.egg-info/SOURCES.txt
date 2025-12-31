@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/shopping_list/__init__.py
+src/shopping_list/cli.py
+src/shopping_list.egg-info/PKG-INFO
+src/shopping_list.egg-info/SOURCES.txt
+src/shopping_list.egg-info/dependency_links.txt
+src/shopping_list.egg-info/entry_points.txt
+src/shopping_list.egg-info/requires.txt
+src/shopping_list.egg-info/top_level.txt
+tests/test_smoke.py
