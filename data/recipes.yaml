@@ -1,0 +1,20 @@
+recipes:
+  - id: chilli
+    name: Chilli con carne
+    ingredients:
+      - name: beef mince
+        qty: 300
+        unit: g
+      - name: onion
+        qty: 1
+        unit: each
+
+  - id: tacos
+    name: Beef tacos
+    ingredients:
+      - name: beef mince
+        qty: 400
+        unit: g
+      - name: onion
+        qty: 1
+        unit: each
